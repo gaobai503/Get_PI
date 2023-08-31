@@ -1,4 +1,4 @@
-CC = g
+CC = gcc
 CPPFLAGS = -Wall -g
 RM = erase
 
